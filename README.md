@@ -1,2 +1,2 @@
 # HTML
-My frist HTML project showcasing my resume
+My first HTML project showcasing my resume
